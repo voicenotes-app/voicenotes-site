@@ -3,7 +3,7 @@
   "trailingSlash": true,
   "redirects": [
     {
-      "source": "/download/windows",
+      "source": "/download/windows{/}?",
       "destination": "https://github.com/hoglet-com/voicenotes-site/releases/download/v0.2.0-trial/VoiceNotes.Setup.0.2.0.exe",
       "statusCode": 302
     }
