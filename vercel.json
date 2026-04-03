@@ -4,7 +4,7 @@
   "redirects": [
     {
       "source": "/download/windows{/}?",
-      "destination": "https://github.com/hoglet-com/voicenotes-site/releases/download/v0.2.0-trial/VoiceNotes.Setup.0.2.0.exe",
+      "destination": "https://github.com/voicenotes-app/voicenotes-site/releases/download/v0.2.0-trial/VoiceNotes.Setup.0.2.0.exe",
       "statusCode": 302
     }
   ]
